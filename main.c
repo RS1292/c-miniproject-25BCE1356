@@ -7,7 +7,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <emscripten.h>
 
 #define MAX_PRODUCTS 100
 #define LOW_STOCK_THRESHOLD 5
